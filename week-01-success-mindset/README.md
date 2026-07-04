@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Boredom is actually good for you.Most people think being bored is bad. They use phones to stop it instantly.Here is why boredom is helpful:Sparks ideas: A blank mind creates its own fun, new ideas.Clears the brain: Free time helps your mind solve deep problems.Rests your focus: Screens tire your eyes and brain. Stillness recharges them.Being bored feels uncomfortable, but it makes your mind stronger and more creative.
 
 ---
 
@@ -45,9 +45,9 @@ Objective truths do not depend on opinions. They hold true regardless of how peo
 
 Write each truth in this format:
 
-**Truth:** (1 sentence)
+**Truth:** Disciplined and Consistency is a big thing 
 
-**Evidence from my life:** (2–4 lines: what you tried + what happened)
+**Evidence from my life:** I have tried to learn and switch my job profile but due to indisciplined nature I couldn't do. Now I am trying to do in Praveen Sir's Class
 
 ---
 
@@ -55,35 +55,36 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Tt does not change based on what people believe, feel, or wish for.Here is how we know something is true:It can be proven: Anyone can test it and get the exact same result.It stays the same: Gravity works whether you believe in it or not.It relies on facts: It uses real evidence, not opinions or guesses
 
 ### Evidence from my life
 
-Add your answer here...
-
+More often, they simply want someone who will listen without judging or interrupting.
+I believed I was helping them by sharing my perspective and thought that I knew how they should handle the situation
 ---
 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
+Build healthy relationships
 
 ### Evidence from my life
 
 Add your answer here...
-
+People seem more comfortable sharing their thoughts with me, and I have built stronger relationships.
+I also learned that advice has much greater value when it is invited rather than imposed, even if the advice itself is genuine and well-intentioned.
 ---
 
 ## Truth #3
 
 ### Truth
 
-Add your answer here...
+A good rule is useless if it does not work for you
 
 ### Evidence from my life
 
-Add your answer here...
+Here is why you must adapt principles:Your situation is unique: Your schedule, energy, and responsibilities are yours alone.Rigid rules break: If a rule is too strict, you will quit.Personal fit brings results: You stick with habits that match your style.
 
 ---
 
@@ -93,7 +94,9 @@ Add your answer here...
 
 Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
 
-**Minimum 300 words.**
+By 2029, Binod Mahato had established himself as a trusted leader in enterprise cyber resilience, data protection, and cloud backup architecture. Over the previous few years, he led multiple large-scale transformation programs, helping global organizations modernize legacy backup environments, strengthen ransomware recovery capabilities, and adopt resilient multi-cloud data protection strategies using platforms such as Rubrik, Commvault, Cohesity, Azure, and Oracle Cloud.
+
+Known for combining deep technical expertise with practical execution, he designed scalable backup architectures, implemented disaster recovery solutions, and standardized operational processes across geographically distributed environments. His work improved recovery readiness, reduced operational complexity, and strengthened compliance with evolving cybersecurity and data privacy regulations.
 
 ### Rules
 
@@ -135,8 +138,11 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Led the design, implementation, and operational management of enterprise backup solutions supporting business-critical workloads with a focus on availability, scalability, security, and compliance. Implemented Commvault LiveSync for disaster recovery, designed cloud backup architectures using Commvault Metallic, optimized backup performance, reduced recovery time objectives (RTOs), and strengthened business continuity capabilities.
+Expanded expertise in data privacy and compliance by completing work and learning focused on the DPDP Act 2023, DPDP Rules 2025, GDPR, Privacy Impact Assessments (PIA/DPIA), DSAR processes, vendor privacy risk assessments, privacy governance, data breach management, encryption, data masking, and Privacy Enhancing Technologies (PETs). Integrated privacy and security principles into infrastructure design and operational processes to support organizational compliance objectives.
 
+Published technical documentation and implementation guides covering Commvault architecture, LiveSync configuration, cloud backup, Azure and OCI integrations, and enterprise backup best practices. Built a professional portfolio of infrastructure designs, architecture diagrams, and implementation documentation that demonstrated expertise in enterprise data protection and cloud technologies.
+Earned recognition for delivering reliable production support, resolving critical incidents, collaborating with cross-functional and global stakeholders, mentoring team members, and driving continuous service improvements. Strengthened technical capabilities through continuous professional development, certifications, and hands-on enterprise project delivery across backup, cloud, infrastructure, and data protection domains.
 ### Public Link
 
 Paste your link here:
@@ -167,13 +173,13 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+If Yes: 
 
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
 
-Add your answer here...
+I was once asked to move some billable hours from one project to another project that I had not done the work on. Not just me but others in my group as well so there were several of us questioning it. I did not feel comfortable doing this and said so in writing. Let me just put my hours in as it was and the company bill how it wants. Do not make me complicit in whatever shenanigans are being pulled.
 
 ---
 
@@ -199,16 +205,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits by James Clear
+2. How to Rule the World by Theo Baker
+3. Man's Search for Meaning by Viktor E. Frankl
+4. The Diary of a Young Girl by Anne Frank
+5. How to Win Friends and Influence People – Dale Carnegie
+6. London Falling by Patrick Radden Keefe:
+7. The Psychology of Money – Morgan Housel
+8. Silent Spring by Rachel Carson
+9. The First 90 Days — Michael D. Watkins
+10. The Autobiography of Malcolm X by Malcolm X and Alex Haley
 
 ---
 
@@ -236,17 +242,23 @@ List topics only. No need to share numbers.
 * Spending tracker
 
 ## My Metrics
-
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+Learning hours per week
+Deep work sessions per week
+Projects completed or documented
+Certifications earned
+Technical articles or documentation published
+Automation tasks created
+Backup/Cloud skills practiced
+LinkedIn or GitHub updates
+Networking conversations per month
+Interview preparation hours
+Books or courses completed
+Daily steps or workouts
+Sleep hours
+Water intake
+Monthly spending and savings
+Family quality time
+Health checkups and preventive care
 
 ---
 
@@ -270,9 +282,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes
 
-Add your answer here...
+Yes, Will follow the same.
 
 ---
 
@@ -290,7 +302,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon - Fri: 1 - 2 hours of learning concepts through practical labs and 30 mins of theory reading
+3 to 4 sessions of strength work out and one to two sessions of bdaminton sport
+Saturday: DMI session
+Sunday: Small review session and spend some quality time with family
+
 
 ---
 
@@ -298,11 +314,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+From Monday to thursday, Recorded video in youtube and complete given assignement
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+4-5
 
 ---
 
@@ -316,23 +332,22 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
+Reduce acreen time. specially instagram
 ---
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Its difficult to sit 8 hours but yes I can do it.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Regular workout with balanced protein rich diet
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Put more effort on learning rather than distracting due to instagram
 
 ### LinkedIn Post
 
@@ -344,7 +359,7 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/in/binod-mahato-54b61624/**  
 - Blog / Medium : **ADD LINK HERE**  
 
 ---

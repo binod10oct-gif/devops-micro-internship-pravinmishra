@@ -420,8 +420,7 @@ Removing unused resources also improves security by reducing the attack surface 
 #### LinkedIn Post URL
 
 Paste your LinkedIn post URL here:
-
-`Add your URL here`
+(https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7483961520016502784-_AAD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)`
 
 ---
 

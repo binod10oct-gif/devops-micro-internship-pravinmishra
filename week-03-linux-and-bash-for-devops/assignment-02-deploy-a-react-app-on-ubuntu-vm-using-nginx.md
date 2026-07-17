@@ -51,7 +51,8 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
+<img width="896" height="299" alt="image" src="https://github.com/user-attachments/assets/e2f5c7fb-5126-4d20-a5a0-fc19b40ac7f2" />
+
 
 ---
 
@@ -127,7 +128,8 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<img width="752" height="80" alt="image" src="https://github.com/user-attachments/assets/55a806b9-2809-4321-953f-413ba3ca825e" />
+
 
 ---
 

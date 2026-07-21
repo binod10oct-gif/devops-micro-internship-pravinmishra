@@ -129,13 +129,14 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+(https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7485371287108878336-vdiB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+<img width="544" height="529" alt="image" src="https://github.com/user-attachments/assets/7743d5cb-844e-4a77-a072-58958ab8d58c" />
+
 
 ---
 

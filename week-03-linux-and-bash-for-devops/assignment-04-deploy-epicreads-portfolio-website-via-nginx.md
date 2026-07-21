@@ -64,7 +64,8 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+<img width="342" height="35" alt="image" src="https://github.com/user-attachments/assets/7b53d3bb-c59b-4b6f-a91f-3e299875671e" />
+
 
 ---
 
@@ -82,11 +83,13 @@ Add your screenshot here.
 Verify the deployed website is publicly accessible and the footer contains your details.
 
 ### Evidence
+<img width="668" height="139" alt="image" src="https://github.com/user-attachments/assets/45650d04-60f9-4a41-82a5-ce540005f028" />
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
 
----
+---<img width="380" height="53" alt="image" src="https://github.com/user-attachments/assets/b4184393-124c-494a-8f16-f160311785fb" />
+
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 

@@ -34,7 +34,8 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+<img width="371" height="113" alt="image" src="https://github.com/user-attachments/assets/036b9cff-6d35-43ca-b4dd-beda2fce72cf" />
+
 
 ---
 
@@ -48,7 +49,8 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+<img width="563" height="315" alt="image" src="https://github.com/user-attachments/assets/d3ca6390-7284-4686-9d60-9c121b1764ad" />
+
 
 ---
 
@@ -68,7 +70,8 @@ Add your screenshot here.
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+<img width="479" height="44" alt="image" src="https://github.com/user-attachments/assets/485523cd-e005-4b96-9b89-2014ddb4f8e1" />
+
 
 ---
 
@@ -82,13 +85,14 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+<img width="371" height="134" alt="image" src="https://github.com/user-attachments/assets/2814a4d9-9741-40d1-88a9-a0fd08f75f12" />
+
+<img width="680" height="335" alt="image" src="https://github.com/user-attachments/assets/4f968860-a94e-483a-a85a-17ad74db6a1a" />
 
 ---
 
@@ -102,13 +106,15 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+<img width="446" height="53" alt="image" src="https://github.com/user-attachments/assets/9260dc5d-39c1-4d25-a8ee-0b6e85f3157f" />
+
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+<img width="354" height="84" alt="image" src="https://github.com/user-attachments/assets/8a22144d-9402-459a-9147-56e26c4f83c2" />
+
 
 ---
 

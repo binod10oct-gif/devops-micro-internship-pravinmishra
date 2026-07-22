@@ -421,51 +421,79 @@ A chatbot only answers my question, but in this agentic workflow, Claude uses to
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+Full Name: Binod Mahato
 
-**Date:** DD/MM/YYYY
+Date: 21/07/2026
+
 
 ---
 
 **1. Reported Symptom**
-
-Add your answer here.
+The React application was not opening, and the local HTTP request could not connect to port 80.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
+The Bash report showed three failed checks:
+
+[FAIL] Nginx service is not active
+[FAIL] Port 80 is not listening
+[FAIL] Local HTTP check returned status 000
+The recent Nginx logs also showed that the service was stopped and deactivated successfully.
+
+The resource checks passed:
+
+Root disk usage was 65%.
+Available memory was 384 MB.
+This showed that the problem was not caused by high disk usage or low available memory.
 
 ---
 
 **3. Most Likely Cause**
 
-Add your answer here.
+The evidence showed that Nginx had been stopped. Because Nginx was not running, port 80 was not listening, and the local HTTP request could not connect.
 
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+Claude recommended starting Nginx, but it did not run the command. After reviewing the evidence, I manually executed:
+
+sudo systemctl start nginx
 
 ---
 
 **5. Verification**
 
-Add your answer here.
+After starting Nginx, I ran systemctl is-active nginx, and the output returned active.
+
+I also ran curl -I http://localhost, and the application returned HTTP/1.1 200 OK.
+
+I then ran /linux-triage again. The recovery report showed:
+
+[PASS] Nginx service is active
+[PASS] Port 80 is listening
+[PASS] Local HTTP check returned status 200
+[PASS] Root disk usage is 65%
+[PASS] Available memory is 378 MB
+The final result was HEALTHY, with five passed checks and no warnings or failures.
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+I allowed the AI skill to run the Bash script, read the report, and explain the evidence. I did not allow it to restart Nginx because I needed to approve the action manually.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+Gather: The Bash script collected evidence about Nginx, port 80, the HTTP response, disk usage, available memory, and recent service logs.
+Analyze: Claude read the report, identified the three failed checks, and explained that Nginx had been stopped.
+Human Act: I reviewed Claude's recommendation and manually ran sudo systemctl start nginx.
+Verify: I confirmed that Nginx was active, received HTTP 200 from the application, and ran /linux-triage again to confirm that all five checks passed.
+
 
 ---
 
@@ -477,13 +505,13 @@ Add your answer here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[`Add your URL here`](https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7485377032776802304-2fts/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="932" height="455" alt="image" src="https://github.com/user-attachments/assets/93477dee-9399-4278-822f-a46b6751630d" />
 
 ---
 
@@ -491,7 +519,7 @@ Add your screenshot here.
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`Add your URL here`
+https://github.com/binod10oct-gif/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/assignment-06-ai-assisted-linux-health-check.md
 
 ---
 

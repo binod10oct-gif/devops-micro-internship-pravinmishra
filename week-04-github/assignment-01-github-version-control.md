@@ -71,7 +71,8 @@ Add your PR URL here...
 
 #### Screenshot 3 — Your Pull Request
 
-<img width="368" height="216" alt="image" src="https://github.com/user-attachments/assets/13befce5-eefb-445b-af42-6bd480bfe339" />
+<img width="433" height="229" alt="image" src="https://github.com/user-attachments/assets/f76175a6-f7d2-4bf3-aedb-e0339c462451" />
+
 
 
 ---

@@ -17,6 +17,7 @@ This week you learned Git and GitHub — the foundation of every DevOps workflow
 Set up your GitHub profile professionally.
 
 ### Evidence
+<img width="736" height="403" alt="image" src="https://github.com/user-attachments/assets/97289d10-1f2f-4488-a83e-b05e2de57964" />
 
 #### What I did
 
@@ -24,7 +25,8 @@ Add your answer here...
 
 #### Screenshot 1 — Your GitHub profile
 
-Add your screenshot here.
+<img width="736" height="403" alt="image" src="https://github.com/user-attachments/assets/3c8b3de1-e673-4bff-90de-cb5f8d60075d" />
+
 
 ---
 
@@ -42,11 +44,12 @@ git add .
 git commit -m "initial commit"
 ```
 
-### Evidence
+### (https://github.com/binod10oct-gif/devops-micro-internship-pravinmishra/edit/main/week-04-github/assignment-01-github-version-control.md)
 
 #### Screenshot 2 — Output of your first commit
 
-Add your screenshot here.
+<img width="368" height="216" alt="image" src="https://github.com/user-attachments/assets/287542e8-4449-4add-9818-2d043c9800e4" />
+
 
 ---
 
@@ -68,7 +71,8 @@ Add your PR URL here...
 
 #### Screenshot 3 — Your Pull Request
 
-Add your screenshot here.
+<img width="368" height="216" alt="image" src="https://github.com/user-attachments/assets/13befce5-eefb-445b-af42-6bd480bfe339" />
+
 
 ---
 

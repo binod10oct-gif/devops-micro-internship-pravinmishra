@@ -217,7 +217,7 @@ https://www.linkedin.com/posts/binod-mahato-54b61624_devops-cloudcomputing-netwo
 <img width="804" height="448" alt="image" src="https://github.com/user-attachments/assets/09ab810f-85db-46a1-bdc3-92d820edaca0" />
 
 ```text
-[Add your URL here...](https://www.linkedin.com/posts/binod-mahato-54b61624_devops-cloudcomputing-networking-share-7485557162195329024-g8g4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
+(https://www.linkedin.com/posts/binod-mahato-54b61624_devops-cloudcomputing-networking-share-7485557162195329024-g8g4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 ```
 
 ---
@@ -226,8 +226,8 @@ https://www.linkedin.com/posts/binod-mahato-54b61624_devops-cloudcomputing-netwo
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
-
+I’m happy to share that I’m looking forward to joining the DevOps Micro Internship (DMI) – Cohort 3, guided by Pravin Mishra 🚀 This internship offers a great opportunity to build strong fundamentals in DevOps, Cloud, and Networking through a practical, hands-on learning approach. The structured assignments and real-world tasks are designed to strengthen practical understanding beyond just theory.
+Week 0 Assignment Topics Include: • Basics of Internet & Networking • Application Architecture (Two-tier & Three-tier) • DNS & Domain Name Concepts • Hands-on Practice with Visual Studio Code • Professional Documentation & Knowledge Sharing
 ---
 
 # Reflection – Week 0

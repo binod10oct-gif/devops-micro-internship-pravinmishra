@@ -33,8 +33,11 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe we shouldn't judge a person's intelligence or character based on whether their opinions align with our own. Too often, if someone agrees with us, we consider them wise or sensible. But the moment they express a different opinion, we are quick to dismiss them as uninformed or foolish.
 
+I've observed this happen many times, where people's perception of the same individual changes almost instantly just because that person changes their viewpoint. To me, opinions are temporary—they evolve as we gain new experiences, knowledge, and perspectives. Judging someone's worth based on something so fluid is unfair and short-sighted.
+
+Many people would probably agree with this idea in theory, but in practice, we often do the opposite. I believe we should judge people by their values, integrity, and willingness to learn, rather than by whether they happen to agree with us at a particular moment.
 ---
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
@@ -48,18 +51,25 @@ Write each truth in this format:
 **Truth:** (1 sentence)
 
 **Evidence from my life:** (2–4 lines: what you tried + what happened)
-
----
+Small, consistent actions help overcome procrastination.
 
 ## Truth #1
 
 ### Truth
 
-Add your answer here...
+Earlier, I used to procrastinate a lot in my day-to-day activities, especially the ones that were important for achieving my goals. I would feel highly motivated at the beginning, but after some time I would keep postponing tasks, telling myself, "I'll start in another hour" or "I'll do it in 30 minutes." By the end of the day, I often felt guilty because I had made little or no progress on the things that truly mattered.
+
+To test a different approach, I stopped focusing on completing large amounts of work. Instead, I committed to working on an activity for just 20–30 minutes. Once the time was up, I would intentionally stop, even if I was interested in continuing, and switch to another activity. This made it much easier to start because the commitment felt manageable rather than overwhelming.
+
+Although I still get distracted occasionally,I now know that even a short period of focused work is enough to regain momentum and motivation. Through this experience, I realized that consistency matters more than waiting for motivation
 
 ### Evidence from my life
 
-Add your answer here...
+I learned that listening with empathy strengthens relationships more than immediately offering advice. Earlier, whenever someone shared their life experiences or personal struggles with me, I would be eager to give advice or suggest solutions. I believed I was helping them by sharing my perspective and thought that I knew how they should handle the situation. Looking back, I realize that I often underestimated the complexity of what they were going through.
+
+Over time, I observed that no one can truly understand another person's situation until they have walked in their shoes. I also realized that most people are not looking for advice, guidance, or even consolation when they open up. More often, they simply want someone who will listen without judging or interrupting. Expressing their thoughts and emotions helps them release the emotional burden they have been carrying.
+
+Based on this realization, I made a personal rule: I will not offer advice unless the other person asks for it. Since adopting this approach, my conversations have become more meaningful, people seem more comfortable sharing their thoughts with me, and I have built stronger relationships. I also learned that advice has much greater value when it is invited rather than imposed, even if the advice itself is genuine and well-intentioned.
 
 ---
 
@@ -79,7 +89,17 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+I learned that adapting useful principles to my own circumstances produces better results than trying to copy someone else's routine exactly.
+
+For a long time, I watched many content creators and influencers and tried to follow their advice exactly as they presented it. Some of their suggestions were genuinely helpful, while others seemed useful in theory but did not work well in practice. Whenever I tried to imitate their routines without considering my own situation, I struggled to stay consistent and often felt discouraged.
+
+Over time, I realized that a principle and the way it is applied are two different things. The principle may be universal, but its implementation should be personalized. Every person's career, responsibilities, environment, and daily routine are different. For example, not everyone can wake up at the same early hour or follow an identical schedule because their circumstances may not allow it.
+
+I began identifying the underlying principles behind successful habits—such as consistency, regular exercise, continuous learning, and adequate rest—and adapted them to fit my own lifestyle instead of copying someone else's routine. This approach helped me stay consistent and achieve better results.
+
+However, adapting principles should never become an excuse to avoid positive change. If someone's current lifestyle is built around unhealthy or harmful habits, they should not justify those habits by saying that their lifestyle does not allow them to adopt better principles. In such cases, the lifestyle itself needs to change. I am referring only to genuine constraints—such as career responsibilities, family commitments, or the environment in which a person lives—that cannot be changed easily. When those are the limiting factors, it is more effective to adapt good principles to fit your circumstances rather than blindly copying someone else's routine. The goal is not to imitate another person's lifestyle but to apply sound principles in a way that is both practical and sustainable for your own life.
+
+
 
 ### Evidence from my life
 
@@ -135,14 +155,33 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+**July 2031 | Technology & Leadership**
+
+**From Backup Architect to Enterprise AI Infrastructure Leader: How Binod Mahato Helped Redefine Cyber Resilience**
+
+A few years ago, Binod Mahato was known as a seasoned Backup & Data Protection Architect with deep expertise in enterprise backup, disaster recovery, and cyber resilience. Today, he is recognized as one of the technology leaders helping organizations build autonomous, AI-driven infrastructure that is secure, resilient, and cloud-native.
+
+With more than two decades of experience spanning enterprise infrastructure, cloud, DevOps, and data protection, Binod successfully bridged the gap between traditional IT operations and modern platform engineering. Rather than viewing backup as a standalone function, he championed a philosophy where resilience became an integral part of every application, every cloud deployment, and every business service.
+
+His leadership has enabled several global organizations to modernize their infrastructure by integrating automation, Infrastructure as Code, Kubernetes, observability, immutable storage, and AI-assisted operations into enterprise environments. Teams that once relied on manual processes now deploy resilient platforms through automated pipelines that recover from failures in minutes instead of hours.
+
+Colleagues describe him as a leader who enjoys solving complex problems more than chasing titles. His ability to combine architectural thinking with hands-on technical execution has earned him respect across engineering, security, and executive leadership teams.
+
+Beyond his corporate achievements, Binod has become an active mentor in the technology community. Through technical articles, open-source contributions, workshops, and mentorship programs, he has helped thousands of engineers transition from traditional infrastructure roles into cloud and DevOps careers. His practical learning approach—focused on building real projects instead of collecting certifications—has inspired many professionals to continuously upskill.
+
+Industry conferences frequently invite him to speak on topics such as cyber resilience, AI-powered infrastructure operations, hybrid cloud strategy, and enterprise backup modernization. His insights are valued because they are grounded in real-world implementation rather than theory.
+
+Despite his accomplishments, Binod remains committed to learning. Friends often remark that his greatest strength is curiosity. Whether exploring the latest advancements in AI, experimenting with cloud-native technologies, or mentoring the next generation of engineers, he continues to approach technology with the enthusiasm of someone who believes there is always another problem worth solving.
+
+As enterprises increasingly rely on intelligent automation and resilient digital platforms, Binod Mahato stands among the professionals shaping that future—demonstrating that continuous learning, practical expertise, and a willingness to evolve remain the most valuable skills in technology.
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
-
+[`Add your URL here`
+](https://www.linkedin.com/feed/update/urn:li:share:7485557162195329024/)
 ---
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
@@ -199,16 +238,17 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+Deep Work — Cal Newport
+Atomic Habits – James Clear
+Lateral Thinking: A Textbook of Creativity - Edward de Bono
+How to Win Friends and Influence People – Dale Carnegie
+The 7 Habits of Highly Effective People – Stephen R. Covey
+The Psychology of Money – Morgan Housel
+Can't Hurt Me – David Goggins
+The First 90 Days — Michael D. Watkins
+Vijayaniki Aidu Metlu - Yandamuri Veerendranath
+Leadership - B. V. Pattabhiram
+
 
 ---
 
@@ -237,16 +277,18 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+
+Sleep hours.
+Workout sessions
+Daily steps
+Learning hours per week
+Daily screen time
+Technical blogs published
+Monthly savings
+Investment tracking
+Books completed
+Hands-on practice hours of any skill
+
 
 ---
 
@@ -290,7 +332,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon - Fri: 1 - 2 hours of learning concepts through practical labs and 30 mins of theory reading
+3 to 4 sessions of strength work out and one to two sessions of bdaminton sport
+Saturday: DMI session
+Sunday: Small review session and spend some quality time with family
 
 ---
 
@@ -298,11 +343,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+From Monday - Thursday I will complete the assignments ASAP and revisit the theory and assignments on Friday
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5
 
 ---
 
@@ -316,8 +361,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
+Screen time - Maximum 2 - 3 hours
 ---
 
 # Reflection – Week 1
@@ -328,23 +372,23 @@ Add your answer here...
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
-
+Poor screentime management.
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Redyce screen time
+1 - 2 hours of additional skill learning in the morning.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+(https://www.linkedin.com/feed/update/urn:li:share:7485557162195329024/)
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL:(https://www.linkedin.com/feed/update/urn:li:share:7485557162195329024/)
 - Blog / Medium : **ADD LINK HERE**  
 
 ---

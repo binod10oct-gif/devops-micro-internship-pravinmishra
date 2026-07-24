@@ -48,7 +48,8 @@ git commit -m "initial commit"
 
 #### Screenshot 2 — Output of your first commit
 
-<img width="368" height="216" alt="image" src="https://github.com/user-attachments/assets/287542e8-4449-4add-9818-2d043c9800e4" />
+<<img width="377" height="197" alt="image" src="https://github.com/user-attachments/assets/a9ebd3f2-4fd4-4147-8ae7-825072e3e3e3" />
+
 
 
 ---

@@ -27,6 +27,7 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 
 ![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
+<img width="335" height="185" alt="image" src="https://github.com/user-attachments/assets/02983a7d-6eac-4ac8-bd6c-af90c06de1c7" />
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
@@ -34,7 +35,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+In networking, a protocol is a standardized set of rules and formats that dictates how devices exchange data. It acts like a universal language, allowing computers, servers, and routers to communicate successfully regardless of differences in their underlying hardware, software, or manufacturer.
 
 ---
 
@@ -59,9 +60,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
-
----
+EpicReads’ website hosted in Finland can be accessed globally through networking technologies and internet protocols. When a user opens the website, the browser uses HTTP/HTTPS protocols to request webpages securely over the internet. HTTPS ensures encrypted and safe communication between users and the server. Every device connected to the internet has an IP Address, which helps identify the user’s system and the Finland-based server. Data is transferred using the TCP/IP protocol suite. TCP ensures reliable delivery of data packets, while IP routes them across networks worldwide. The internet uses Packet Switching, where data is divided into small packets and sent through different paths before being reassembled at the destination. This allows users from any country to quickly and reliably access the EpicReads online bookstore.
 
 # 🏗️ Task 3: Application Architecture & Stack
 
@@ -91,10 +90,8 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+<img width="357" height="244" alt="image" src="https://github.com/user-attachments/assets/3514b3d3-0d31-45b3-a188-0c9d9e824244" />
 
-
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -102,19 +99,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+React
+HTML/CSS/JS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+Node.js
+Python
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
-
+MySql.
+Postgresql
 ---
 
 # 🌍 Task 4: Domain Name & DNS (Basic Concepts)
@@ -142,7 +138,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the internet’s phonebook. It converts easy-to-remember domain names such as epicreads.com into IP addresses like 52.172.142.222, which computers use to identify servers. Without DNS, users would need to remember IP addresses to access websites.
+
+To connect epicreads.com to the server IP 52.172.142.222, an A Record should be used. An A Record maps a domain name directly to an IPv4 address, allowing users worldwide to access the EpicReads website using the domain name instead of the numeric IP address.
 
 ---
 
@@ -178,15 +176,14 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+<img width="373" height="197" alt="image" src="https://github.com/user-attachments/assets/183506af-c549-4e0c-814b-2d172214c9ef" />
 
 
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
 # 🔗 Task 6: Publish Your Assignment as a LinkedIn Post
-
+https://www.linkedin.com/posts/binod-mahato-54b61624_devops-cloudcomputing-networking-share-7485557162195329024-g8g4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 ## Objective
 
 Publishing on LinkedIn helps you:
@@ -216,9 +213,11 @@ Add the following credit note at the end of your post:
 ## LinkedIn Post URL
 
 Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/binod-mahato-54b61624_devops-cloudcomputing-networking-share-7485557162195329024-g8g4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
+<img width="804" height="448" alt="image" src="https://github.com/user-attachments/assets/09ab810f-85db-46a1-bdc3-92d820edaca0" />
 
 ```text
-Add your URL here...
+(https://www.linkedin.com/posts/binod-mahato-54b61624_devops-cloudcomputing-networking-share-7485557162195329024-g8g4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 ```
 
 ---
@@ -227,27 +226,27 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
-
+I’m happy to share that I’m looking forward to joining the DevOps Micro Internship (DMI) – Cohort 3, guided by Pravin Mishra 🚀 This internship offers a great opportunity to build strong fundamentals in DevOps, Cloud, and Networking through a practical, hands-on learning approach. The structured assignments and real-world tasks are designed to strengthen practical understanding beyond just theory.
+Week 0 Assignment Topics Include: • Basics of Internet & Networking • Application Architecture (Two-tier & Three-tier) • DNS & Domain Name Concepts • Hands-on Practice with Visual Studio Code • Professional Documentation & Knowledge Sharing
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-Add your answer here...
+I found easy the topics about internet, apllication stack and architecture as I already have some exposure on it.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Nothing was difficult as of week 0.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+My schedule to distrbute my time to all the important tasks.
 
 ---
 

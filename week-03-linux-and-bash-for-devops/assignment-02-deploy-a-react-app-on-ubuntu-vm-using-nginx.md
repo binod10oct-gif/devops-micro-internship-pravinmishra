@@ -19,8 +19,10 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 ### Evidence
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
+<img width="760" height="433" alt="image" src="https://github.com/user-attachments/assets/54d21f00-4cad-4e72-b652-a0f859472a10" />
 
-Add your screenshot here.
+<img width="759" height="433" alt="image" src="https://github.com/user-attachments/assets/9c2453c9-dee8-441a-b172-d71671370e3d" />
+
 
 ---
 
@@ -34,7 +36,8 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+<img width="774" height="436" alt="image" src="https://github.com/user-attachments/assets/c5e3cece-76d3-4113-82d0-39cc458deeb2" />
+
 
 ---
 
@@ -48,7 +51,8 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
+<img width="896" height="299" alt="image" src="https://github.com/user-attachments/assets/e2f5c7fb-5126-4d20-a5a0-fc19b40ac7f2" />
+
 
 ---
 
@@ -124,7 +128,8 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<img width="752" height="80" alt="image" src="https://github.com/user-attachments/assets/55a806b9-2809-4321-953f-413ba3ca825e" />
+
 
 ---
 
@@ -142,13 +147,11 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
+https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7483961520016502784-_AAD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
 
 ---
 

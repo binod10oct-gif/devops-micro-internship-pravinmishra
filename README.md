@@ -13,11 +13,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Binod Mahato |
+| **LinkedIn** | [Binod Mahato](https://www.linkedin.com/in/binod-mahato-54b61624//) |
+| **Location** | Bengaluru,KA, India |
+| **Background** | Backup Architect, Cloud, DevOps |
+| **Goal** | Update yourself about the latest technology trends  |
 
 ---
 

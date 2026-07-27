@@ -100,7 +100,6 @@ Build healthy relationships
 
 ### Evidence from my life
 
-Add your answer here...
 People seem more comfortable sharing their thoughts with me, and I have built stronger relationships.
 I also learned that advice has much greater value when it is invited rather than imposed, even if the advice itself is genuine and well-intentioned.
 ---
@@ -183,7 +182,7 @@ Include this line:
 
 <<<<<<< HEAD
 Led the design, implementation, and operational management of enterprise backup solutions supporting business-critical workloads with a focus on availability, scalability, security, and compliance. Implemented Commvault LiveSync for disaster recovery, designed cloud backup architectures using Commvault Metallic, optimized backup performance, reduced recovery time objectives (RTOs), and strengthened business continuity capabilities.
-Expanded expertise in data privacy and compliance by completing work and learning focused on the DPDP Act 2023, DPDP Rules 2025, GDPR, Privacy Impact Assessments (PIA/DPIA), DSAR processes, vendor privacy risk assessments, privacy governance, data breach management, encryption, data masking, and Privacy Enhancing Technologies (PETs). Integrated privacy and security principles into infrastructure design and operational processes to support organizational compliance objectives.
+Expanded expertise in data privacy and compliance by completing work and learning focused on the DPDP Act 2023, DPDP Rules 2025, GDPR, Privacy Impact Assessments (PIA/DPIA), DSR processes, vendor privacy risk assessments, privacy governance, data breach management, encryption, data masking, and Privacy Enhancing Technologies (PETs). Integrated privacy and security principles into infrastructure design and operational processes to support organizational compliance objectives.
 =======
 **July 2031 | Technology & Leadership**
 
@@ -213,8 +212,7 @@ Earned recognition for delivering reliable production support, resolving critica
 
 Paste your link here:
 
-[`Add your URL here`
-](https://www.linkedin.com/feed/update/urn:li:share:7485557162195329024/)
+https://www.linkedin.com/posts/binod-mahato-54b61624_deploying-an-application-is-just-the-beginning-activity-7483970606732849152-0hgF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 ---
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
@@ -239,7 +237,7 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes: 
+If Yes: Yes
 
 **What emotion did you feel?** (minimum 50–100 words)
 
@@ -472,14 +470,14 @@ Redyce screen time
 
 Paste your LinkedIn post link here:
 
-(https://www.linkedin.com/feed/update/urn:li:share:7485557162195329024/)
+(https://www.linkedin.com/posts/binod-mahato-54b61624_deploying-an-application-is-just-the-beginning-activity-7483970606732849152-0hgF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 
 ---
 
 ## 10. Proof of Work
 
 <<<<<<< HEAD
-- LinkedIn Post URL: **https://www.linkedin.com/in/binod-mahato-54b61624/**  
+- LinkedIn Post URL: [**https://www.linkedin.com/in/binod-mahato-54b61624/**  ](https://www.linkedin.com/posts/binod-mahato-54b61624_deploying-an-application-is-just-the-beginning-share-7483970603868266496-euXE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 =======
 - LinkedIn Post URL:(https://www.linkedin.com/feed/update/urn:li:share:7485557162195329024/)
 >>>>>>> 23dab746105f59bdc293e451cb54e561569534dd

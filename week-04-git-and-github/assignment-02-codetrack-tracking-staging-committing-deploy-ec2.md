@@ -164,13 +164,13 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-devops-micro-internship-with-agentic-share-7486820991789084672-YK9l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
-Add your screenshot here.
+(https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-devops-micro-internship-with-agentic-share-7486820991789084672-YK9l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 
 ---
 

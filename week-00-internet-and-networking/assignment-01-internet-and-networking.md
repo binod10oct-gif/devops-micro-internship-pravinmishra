@@ -21,7 +21,7 @@ Take a screenshot of your interaction showing:
 * Your detailed prompt (with clear expectations)
 * ChatGPT's simplified response with an example
 
-## Screenshot
+![alt text](<Week 0 SS1.png>)
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
@@ -179,7 +179,7 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 <img width="373" height="197" alt="image" src="https://github.com/user-attachments/assets/183506af-c549-4e0c-814b-2d172214c9ef" />
 
 
-
+![alt text](<Week 0 SS3.png>)
 ---
 
 # 🔗 Task 6: Publish Your Assignment as a LinkedIn Post

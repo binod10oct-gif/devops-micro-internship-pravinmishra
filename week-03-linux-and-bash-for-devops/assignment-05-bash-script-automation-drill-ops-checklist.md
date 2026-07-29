@@ -411,13 +411,12 @@ The script uses variables to store my name, the assignment name, and the require
 #### LinkedIn Post URL
 
 Paste your LinkedIn post URL here:
-(https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7485377032776802304-2fts/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
+https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7487557917152555009-4jaU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 
 ---
 
 #### Screenshot — Published LinkedIn post
-<img width="381" height="427" alt="image" src="https://github.com/user-attachments/assets/74be5253-a655-4725-b953-3196cdea9511" />
-
+![alt text](image.png)
 
 ---
 

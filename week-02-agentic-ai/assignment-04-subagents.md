@@ -34,13 +34,15 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+The cost optimizer focuses on straightforward analysis tasks such as reviewing Terraform resources and recommending cost-saving measures. Since these operations are less computationally intensive than tasks like security analysis, the Haiku model is selected to deliver faster responses at a lower cost.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The security auditor is intended solely for reviewing and analyzing Terraform configurations. By excluding write permissions, it avoids unintended changes to infrastructure code and adheres to the principle of least privilege.
+
+
 
 ---
 

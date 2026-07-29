@@ -20,30 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
+![alt text](image-12.png)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-<img width="550" height="214" alt="image" src="https://github.com/user-attachments/assets/1fa9c545-b70c-41ee-9737-03496c6fa231" />
-
+![alt text](image-13.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-<img width="571" height="209" alt="image" src="https://github.com/user-attachments/assets/ae1c1bcd-79da-4b0e-b7ad-b102f51b50e8" />
-
+![alt text](image-14.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-<img width="550" height="215" alt="image" src="https://github.com/user-attachments/assets/e3b9b2e2-71ac-4649-8119-09aa9bd9e00c" />
-
-
----
+![alt text](image-17.png)
 
 ### Notes
 
@@ -85,17 +80,16 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-<img width="568" height="214" alt="image" src="https://github.com/user-attachments/assets/bd6cdaf5-3b8d-477b-afea-18f5656cf09e" />
+![alt text](image-18.png)
 
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-<img width="574" height="215" alt="image" src="https://github.com/user-attachments/assets/e4966fe1-4ac3-4bd7-8f86-73cc41296a31" />
+![alt text](image-19.png)
 
 
----
 
 ### Notes
 
@@ -104,7 +98,7 @@ Answer the following in your own words:
 **1. What happens if Nginx fails to restart in production?**
 
 If Nginx fails to restart, the website becomes completely unreachable, since Nginx is the only process serving HTTP traffic on port 80. Any user visiting the site would get a connection error or timeout, since nothing would be listening on that port anymore. This is especially risky if the failure happens during a deployment or config change, since it means the site could go down with no automatic recovery, requiring manual intervention to diagnose and fix
----
+
 
 **2. What's your basic rollback plan?**
 
@@ -130,14 +124,12 @@ Add your screenshot here.
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-<img width="1162" height="433" alt="image" src="https://github.com/user-attachments/assets/556ac230-e713-4b49-bfb1-2fe32f0afec3" />
-
+![alt text](image-22.png)
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-<img width="1150" height="420" alt="image" src="https://github.com/user-attachments/assets/a666cba7-6f19-4767-8af0-0c632abc4f9e" />
-
+![alt text](image-23.png)
 
 ---
 
@@ -179,30 +171,26 @@ Assess server capacity and detect potential performance or failure risks.
 ### Evidence
 
 #### Screenshot 1 — Output of `uptime`
-<img width="563" height="133" alt="image" src="https://github.com/user-attachments/assets/eaff41f5-e371-4c96-b7fb-80393480b949" />
-
+![alt text](image-24.png)
 
 
 #### Screenshot 2 — Output of `free -h`
 
-<img width="1098" height="127" alt="image" src="https://github.com/user-attachments/assets/8ee04aea-d2ea-47ab-8651-96c037c53008" />
-.
+![alt text](image-25.png)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-<img width="557" height="121" alt="image" src="https://github.com/user-attachments/assets/260e7642-dd34-4bb1-aa3c-a13a8a8f4e36" />
-
+![alt text](image-26.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-<img width="564" height="116" alt="image" src="https://github.com/user-attachments/assets/60b7c257-10b0-4c4f-8bbd-5253c0fa4d9a" />
+![alt text](image-27.png)
 
 
----
 
 ### Notes
 
@@ -231,22 +219,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-<img width="572" height="94" alt="image" src="https://github.com/user-attachments/assets/07032d2c-19af-410d-b969-64119f8af11c" />
-<img width="560" height="67" alt="image" src="https://github.com/user-attachments/assets/c5c3e154-739f-4b24-b593-b4eae0f986d3" />
-
+![alt text](image-28.png)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-<img width="509" height="48" alt="image" src="https://github.com/user-attachments/assets/aa6ad92b-7867-4857-b030-e25aa272ac6a" />
-
+![alt text](image-29.png)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-<img width="467" height="66" alt="image" src="https://github.com/user-attachments/assets/45b4e975-b911-4c49-baac-270685a825d9" />
+![alt text](image-30.png)
 
 
 ---
@@ -276,7 +261,7 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-<img width="484" height="83" alt="image" src="https://github.com/user-attachments/assets/719da98e-fdf5-40ca-8846-5fe49530806e" />
+![alt text](image-31.png)
 
 
 ---
@@ -284,8 +269,7 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
 
-<img width="484" height="84" alt="image" src="https://github.com/user-attachments/assets/4670b282-aa65-43dd-879f-90cc2a06db17" />
-
+![alt text](image-32.png)
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
@@ -331,14 +315,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+![alt text](image-33.png)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
-
+![alt text](image-34.png)
 ---
 
 ### Notes
@@ -347,19 +330,25 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
-
+The web root directory (/var/www/html) — the exact path Nginx serves content from — was emptied of all deployment files. Nginx itself remained running and correctly configured, but with no content present and no fallback file available either, it returned a 500 Internal Server Error instead of serving the React application.
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+The original deployment had been backed up by moving it to `html_backup`, enabling a quick recovery. The empty broken directory was removed, the backup was restored to its original location, and Nginx was restarted. Recovery was verified using `curl -I`, which returned **200 OK** with matching `Content-Length`, `Last-Modified`, and `ETag` values, confirming the exact same website build had been successfully restored.
+
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+**Key deployment best practices (in brief):**
+
+* **Automated pre-deployment backups:** Create a backup before every deployment so the previous version can be restored instantly without manual intervention.
+* **Atomic deployments:** Deploy the new release to a versioned directory and switch a symlink (e.g., `/var/www/current`) only after deployment succeeds, preventing partial or broken updates.
+* **CI/CD deployment validation:** Automatically verify that critical files (such as `index.html`) exist and are valid before marking the deployment as successful.
+* **Post-deployment health checks:** Run automated health checks after every deployment to confirm the application returns a healthy HTTP 200 response, enabling immediate detection and rollback of failed releases.
+
 
 ---
 
@@ -371,7 +360,12 @@ Review and reflect on the security and reliability practices applied during this
 
 ### Security & Reliability Notes
 
-Answer the following in your own words:
+**SSH key-based authentication** is more secure than passwords because it uses a **public-private key pair**. The **public key** is stored on the server, while the **private key** stays securely on the user's device and is never shared.
+
+Since the private key is never transmitted over the network, it is much harder to intercept or steal. SSH keys are also far more complex than passwords, making them highly resistant to brute-force attacks.
+
+Additionally, SSH keys simplify access management by allowing each user to have a unique key, so administrators can easily grant or revoke access without changing passwords for everyone.
+
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
@@ -420,14 +414,13 @@ Removing unused resources also improves security by reducing the attack surface 
 #### LinkedIn Post URL
 
 Paste your LinkedIn post URL here:
-(https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7483961520016502784-_AAD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)`
+https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7483961520016502784-_AAD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-<img width="809" height="563" alt="image" src="https://github.com/user-attachments/assets/ae84c603-9e01-4ee8-b6b9-178c8a256363" />
-
+![alt text](image-35.png)
 
 ---
 

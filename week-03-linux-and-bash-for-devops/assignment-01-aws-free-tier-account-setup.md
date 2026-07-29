@@ -66,10 +66,6 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 <<<<<<< HEAD
 ![alt text](screenshots/SS1.png)
 =======
-<img width="939" height="407" alt="image" src="https://github.com/user-attachments/assets/39329cc5-f451-4ecf-bfe8-6e5e4b00d99c" />
-
-
->>>>>>> 23dab746105f59bdc293e451cb54e561569534dd
 
 ---
 

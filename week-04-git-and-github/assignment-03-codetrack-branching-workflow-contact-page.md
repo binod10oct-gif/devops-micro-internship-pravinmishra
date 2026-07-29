@@ -82,14 +82,13 @@ Add your screenshot here.
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+![alt text](image-18.png)
 
 ---
 
 #### Screenshot 8 — Browser showing the Contact Page link on the homepage while on `feature/contact-page`
 
-Add your screenshot here.
-
+![alt text](image-19.png)
 ---
 
 # Task 5 — Verify Isolation (Prove the Default Branch Is Unchanged)
@@ -102,7 +101,7 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 9 — Terminal showing the checkout and `ls` output, proving `contact.html` is absent
 
-Add your screenshot here.
+![alt text](image-20.png)
 
 ---
 

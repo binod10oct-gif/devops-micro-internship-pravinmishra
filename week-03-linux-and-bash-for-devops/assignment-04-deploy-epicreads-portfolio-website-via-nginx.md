@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+<img width="523" height="210" alt="image" src="https://github.com/user-attachments/assets/eef058f8-21ae-4313-acb4-6ac72bca0054" />
 
 ---
 
@@ -34,7 +34,8 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+<img width="371" height="113" alt="image" src="https://github.com/user-attachments/assets/036b9cff-6d35-43ca-b4dd-beda2fce72cf" />
+
 
 ---
 
@@ -48,7 +49,8 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+<img width="563" height="315" alt="image" src="https://github.com/user-attachments/assets/d3ca6390-7284-4686-9d60-9c121b1764ad" />
+
 
 ---
 
@@ -62,13 +64,15 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+<img width="342" height="35" alt="image" src="https://github.com/user-attachments/assets/7b53d3bb-c59b-4b6f-a91f-3e299875671e" />
+
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+<img width="479" height="44" alt="image" src="https://github.com/user-attachments/assets/485523cd-e005-4b96-9b89-2014ddb4f8e1" />
+
 
 ---
 
@@ -79,16 +83,19 @@ Add your screenshot here.
 Verify the deployed website is publicly accessible and the footer contains your details.
 
 ### Evidence
+<img width="668" height="139" alt="image" src="https://github.com/user-attachments/assets/45650d04-60f9-4a41-82a5-ce540005f028" />
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
 
----
+---<img width="380" height="53" alt="image" src="https://github.com/user-attachments/assets/b4184393-124c-494a-8f16-f160311785fb" />
+
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+<img width="371" height="134" alt="image" src="https://github.com/user-attachments/assets/2814a4d9-9741-40d1-88a9-a0fd08f75f12" />
+
+<img width="680" height="335" alt="image" src="https://github.com/user-attachments/assets/4f968860-a94e-483a-a85a-17ad74db6a1a" />
 
 ---
 
@@ -102,13 +109,15 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+<img width="446" height="53" alt="image" src="https://github.com/user-attachments/assets/9260dc5d-39c1-4d25-a8ee-0b6e85f3157f" />
+
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+<img width="354" height="84" alt="image" src="https://github.com/user-attachments/assets/8a22144d-9402-459a-9147-56e26c4f83c2" />
+
 
 ---
 
@@ -120,13 +129,14 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+(https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7485371287108878336-vdiB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+<img width="544" height="529" alt="image" src="https://github.com/user-attachments/assets/7743d5cb-844e-4a77-a072-58958ab8d58c" />
+
 
 ---
 

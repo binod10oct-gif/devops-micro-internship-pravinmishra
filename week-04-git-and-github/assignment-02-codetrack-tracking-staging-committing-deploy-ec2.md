@@ -114,19 +114,18 @@ Add your screenshot here.
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
-
+![alt text](image-10.png)
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+![alt text](image-11.png)
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+![alt text](image-12.png)
 
 ---
 
@@ -140,19 +139,19 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-Add your screenshot here.
+![alt text](image-15.png)
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+![alt text](image-13.png)
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+![alt text](image-14.png)
 
 ---
 
@@ -162,15 +161,15 @@ Add your screenshot here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 
-`Add your URL here`
+
+(https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-devops-micro-internship-with-agentic-share-7488276573620457473-0R9v/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
-Add your screenshot here.
+![alt text](image-16.png)
 
 ---
 

@@ -247,19 +247,19 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-Add your screenshot here.
+![alt text](image-40.png)
 
 ---
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+![alt text](image-40.png)
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-Add your screenshot here.
+![alt text](image-40.png)
 
 ---
 
@@ -410,7 +410,6 @@ The script uses variables to store my name, the assignment name, and the require
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7487557917152555009-4jaU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 
 ---

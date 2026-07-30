@@ -62,14 +62,13 @@ Create the branch `feature-readme-update`, add only your own entry (`Full Name �
 
 #### Screenshot 4 — Output of `git status` showing `pull_request.md` modified before staging
 
-Add your screenshot here.
+![alt text](image-54.png)
 
 ---
 
 #### Screenshot 5 — Output of `git commit`
 
-Add your screenshot here.
-
+![alt text](image-55.png)
 ---
 
 # Task 4 — Synchronize with Upstream and Push to Your Fork
@@ -82,13 +81,13 @@ Fetch and merge `upstream/main` into your local default branch, rebase your feat
 
 #### Screenshot 6 — Output of `git push -u origin feature-readme-update` showing a successful push
 
-Add your screenshot here.
+![alt text](image-56.png)
 
 ---
 
 #### Screenshot 7 — Your fork on GitHub showing `feature-readme-update` in the branch selector or a "Compare & pull request" banner
 
-Add your screenshot here.
+![alt text](image-57.png)
 
 ---
 
@@ -114,9 +113,7 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Pull Request URL
 
-Paste your Pull Request URL here:
-
-`Add your URL here`
+(https://github.com/binod10oct-gif/devops-micro-internship-pravinmishra/tree/main)
 
 ---
 
@@ -125,8 +122,6 @@ Paste your Pull Request URL here:
 ## Evidence
 
 #### LinkedIn Post URL
-
-Paste your LinkedIn post URL here:
 
 https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7485377032776802304-2fts/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 

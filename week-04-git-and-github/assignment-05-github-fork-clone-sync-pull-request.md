@@ -102,13 +102,13 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 8 — Pull Request creation page showing the correct base repository, base branch, head repository, compare branch, and title
 
-Add your screenshot here.
+![alt text](image-43.png)
 
 ---
 
 #### Screenshot 9 — Successfully created Pull Request page with the PR number visible
 
-Add your screenshot here.
+![alt text](image-44.png)
 
 ---
 
@@ -128,13 +128,13 @@ Paste your Pull Request URL here:
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7485377032776802304-2fts/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 
 ---
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-Add your screenshot here.
+![alt text](image-45.png)
 
 ---
 
@@ -151,9 +151,8 @@ Add your screenshot here.
 
 Paste your fork URL here:
 
-`Add your URL here`
+https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra/fork
 
----
 
 # Completion Checklist
 

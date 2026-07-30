@@ -58,34 +58,18 @@ Create `contact.html` with the provided content and commit it alone using the me
 
 #### Screenshot 3 — Output of `ls` showing `contact.html`
 
-<<<<<<< HEAD
 ![alt text](image-33.png)
-=======
-![alt text](image-15.png)
-
->>>>>>> feature/contact-page
 ---
 
 #### Screenshot 4 — Output of `git commit`
 
-<<<<<<< HEAD
 ![alt text](image-34.png)
-=======
-![alt text](image-16.png)
-
-
->>>>>>> feature/contact-page
 
 ---
 
 #### Screenshot 5 — Output of `git log --oneline -3` showing the new commit
-<<<<<<< HEAD
 ![alt text](image-35.png)
 
-=======
-
-![alt text](image-17.png)
->>>>>>> feature/contact-page
 ---
 
 # Task 4 — Add the Contact Link to index.html
@@ -103,11 +87,7 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 7 — Output of `git commit`
 
-<<<<<<< HEAD
 ![alt text](image-36.png)
-=======
-![alt text](image-18.png)
->>>>>>> feature/contact-page
 
 ---
 

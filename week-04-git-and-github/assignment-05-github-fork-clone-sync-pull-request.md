@@ -144,8 +144,6 @@ https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-int
 
 ## Fork URL
 
-Paste your fork URL here:
-
 https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra/fork
 
 

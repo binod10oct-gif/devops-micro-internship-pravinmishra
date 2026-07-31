@@ -29,7 +29,6 @@ Verify that the deployed React application is reachable from the browser and con
 ![alt text](image-13.png)
 
 ---
-
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
 ![alt text](image-14.png)
@@ -263,11 +262,9 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 ![alt text](image-31.png)
 
-
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
-
 
 ![alt text](image-32.png)
 

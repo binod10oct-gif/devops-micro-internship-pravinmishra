@@ -171,6 +171,7 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
 <<<<<<< HEAD
+
 ![alt text](image-15.png)
 =======
 ![alt text](image-8.png)
@@ -181,8 +182,10 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
 <<<<<<< HEAD
+
 ![alt text](image-13.png)
 =======
+
 ![alt text](image-9.png)
 >>>>>>> feature/contact-page
 
@@ -200,11 +203,6 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### LinkedIn Post URL
 
-
-<<<<<<< HEAD
-
-(https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-devops-micro-internship-with-agentic-share-7488276573620457473-0R9v/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
-=======
 https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-devops-micro-internship-with-agentic-share-7486820991789084672-YK9l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 >>>>>>> feature/contact-page
 

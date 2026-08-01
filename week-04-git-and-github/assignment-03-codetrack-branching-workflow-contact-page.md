@@ -20,7 +20,8 @@ Start from a clean default branch (`main` or `master`) and confirm the repositor
 
 #### Screenshot 1 — Output of `git status` and `git branch` showing a clean status and the default branch checked out
 
-Add your screenshot here.
+![alt text](image-11.png)
+![alt text](image-12.png)
 
 ---
 
@@ -34,8 +35,8 @@ Create a branch named exactly `feature/contact-page` and switch to it.
 
 #### Screenshot 2 — Output of `git checkout -b feature/contact-page` and `git branch` showing `* feature/contact-page`
 
-Add your screenshot here.
-
+![alt text](image-13.png)
+![alt text](image-14.png)
 ---
 
 # Task 3 — Add contact.html on the Feature Branch
@@ -48,20 +49,21 @@ Create `contact.html` with the provided content and commit it alone using the me
 
 #### Screenshot 3 — Output of `ls` showing `contact.html`
 
-Add your screenshot here.
+![alt text](image-15.png)
 
 ---
 
 #### Screenshot 4 — Output of `git commit`
 
-Add your screenshot here.
+![alt text](image-16.png)
+
+
 
 ---
 
 #### Screenshot 5 — Output of `git log --oneline -3` showing the new commit
 
-Add your screenshot here.
-
+![alt text](image-17.png)
 ---
 
 # Task 4 — Add the Contact Link to index.html
@@ -80,14 +82,13 @@ Add your screenshot here.
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+![alt text](image-18.png)
 
 ---
 
 #### Screenshot 8 — Browser showing the Contact Page link on the homepage while on `feature/contact-page`
 
-Add your screenshot here.
-
+![alt text](image-19.png)
 ---
 
 # Task 5 — Verify Isolation (Prove the Default Branch Is Unchanged)
@@ -100,7 +101,7 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 9 — Terminal showing the checkout and `ls` output, proving `contact.html` is absent
 
-Add your screenshot here.
+![alt text](image-20.png)
 
 ---
 

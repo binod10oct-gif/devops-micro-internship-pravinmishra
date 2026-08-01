@@ -91,7 +91,7 @@ Add your screenshot here.
 
 Paste your Linkedin post link here:
 
-`Add your URL here`
+(https://www.linkedin.com/posts/binod-mahato-54b61624_dmibypravinmishra-agenticai-devops-share-7487556206610243584-ENDs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 
 ---
 

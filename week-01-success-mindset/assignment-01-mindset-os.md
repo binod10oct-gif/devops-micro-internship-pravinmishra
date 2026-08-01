@@ -210,8 +210,6 @@ Published technical documentation and implementation guides covering Commvault a
 Earned recognition for delivering reliable production support, resolving critical incidents, collaborating with cross-functional and global stakeholders, mentoring team members, and driving continuous service improvements. Strengthened technical capabilities through continuous professional development, certifications, and hands-on enterprise project delivery across backup, cloud, infrastructure, and data protection domains.
 ### Public Link
 
-Paste your link here:
-
 https://www.linkedin.com/posts/binod-mahato-54b61624_deploying-an-application-is-just-the-beginning-activity-7483970606732849152-0hgF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 ---
 
@@ -468,8 +466,6 @@ Redyce screen time
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
-
 (https://www.linkedin.com/posts/binod-mahato-54b61624_deploying-an-application-is-just-the-beginning-activity-7483970606732849152-0hgF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 
 ---
@@ -477,9 +473,11 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 <<<<<<< HEAD
-- LinkedIn Post URL: [**https://www.linkedin.com/in/binod-mahato-54b61624/**  ](https://www.linkedin.com/posts/binod-mahato-54b61624_deploying-an-application-is-just-the-beginning-share-7483970603868266496-euXE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
+- LinkedIn Post URL:
+ [**https://www.linkedin.com/in/binod-mahato-54b61624/**  ](https://www.linkedin.com/posts/binod-mahato-54b61624_deploying-an-application-is-just-the-beginning-share-7483970603868266496-euXE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 =======
-- LinkedIn Post URL:(https://www.linkedin.com/feed/update/urn:li:share:7485557162195329024/)
+- LinkedIn Post URL:
+(https://www.linkedin.com/feed/update/urn:li:share:7485557162195329024/)
 >>>>>>> 23dab746105f59bdc293e451cb54e561569534dd
 - Blog / Medium : **ADD LINK HERE**  
 

@@ -212,7 +212,6 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 https://www.linkedin.com/posts/binod-mahato-54b61624_devops-cloudcomputing-networking-share-7485557162195329024-g8g4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 <img width="804" height="448" alt="image" src="https://github.com/user-attachments/assets/09ab810f-85db-46a1-bdc3-92d820edaca0" />
 

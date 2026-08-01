@@ -503,7 +503,6 @@ Verify: I confirmed that Nginx was active, received HTTP 200 from the applicatio
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 
 (https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7485377032776802304-2fts/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc)
 

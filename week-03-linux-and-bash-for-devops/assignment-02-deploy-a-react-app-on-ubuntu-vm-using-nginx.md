@@ -19,7 +19,7 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 ### Evidence
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
-![alt text](image-1.png)
+[alt text](image-1.png)
 
 
 ---
@@ -139,8 +139,6 @@ Verify the React application is publicly accessible via the server's public IP.
 ## Evidence
 
 #### LinkedIn Post URL
-
-Paste your LinkedIn post URL here:
 
 https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-cohort-4-live-micro-internship-waiting-share-7483961520016502784-_AAD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 

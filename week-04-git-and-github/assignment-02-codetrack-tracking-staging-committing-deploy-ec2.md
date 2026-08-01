@@ -20,13 +20,12 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
-
+![alt text](image-22.png)
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-Add your screenshot here.
+![alt text](image-23.png)
 
 ---
 
@@ -40,7 +39,7 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-Add your screenshot here.
+![alt text](image-24.png)
 
 ---
 
@@ -54,7 +53,11 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
+<<<<<<< HEAD
+![alt text](image-25.png)
+=======
 ![alt text](image.png)
+>>>>>>> feature/contact-page
 
 ---
 
@@ -68,13 +71,21 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
+<<<<<<< HEAD
+![git ](image-27.png)
+=======
 ![alt text](image-1.png)
 
+>>>>>>> feature/contact-page
 ---
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
+<<<<<<< HEAD
+![alt text](image-26.png)
+=======
 ![alt text](image-2.png)
+>>>>>>> feature/contact-page
 
 ---
 
@@ -88,13 +99,21 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
+<<<<<<< HEAD
+![alt text](image-28.png)
+=======
 ![alt text](image-3.png)
+>>>>>>> feature/contact-page
 
 ---
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
+<<<<<<< HEAD
+![alt text](image-29.png)
+=======
 ![alt text](image-4.png)
+>>>>>>> feature/contact-page
 
 ---
 
@@ -108,25 +127,36 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
+<<<<<<< HEAD
+![alt text](image-30.png)
+=======
 ![alt text](image-5.png)
+>>>>>>> feature/contact-page
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
-
+![alt text](image-10.png)
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
+<<<<<<< HEAD
+![alt text](image-11.png)
+=======
 ![alt text](image-6.png)
+>>>>>>> feature/contact-page
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
+<<<<<<< HEAD
+![alt text](image-12.png)
+=======
 ![alt text](image-7.png)
+>>>>>>> feature/contact-page
 
 ---
 
@@ -140,19 +170,30 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
+<<<<<<< HEAD
+
+![alt text](image-15.png)
+=======
 ![alt text](image-8.png)
+>>>>>>> feature/contact-page
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
+<<<<<<< HEAD
+
+![alt text](image-13.png)
+=======
+
 ![alt text](image-9.png)
+>>>>>>> feature/contact-page
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+![alt text](image-14.png)
 
 ---
 
@@ -162,15 +203,20 @@ Add your screenshot here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
 https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-devops-micro-internship-with-agentic-share-7486820991789084672-YK9l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
+>>>>>>> feature/contact-page
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
+<<<<<<< HEAD
+![alt text](image-16.png)
+
+---
+=======
 ![alt text](image-10.png)
+>>>>>>> feature/contact-page
 
 # Submission Instructions
 

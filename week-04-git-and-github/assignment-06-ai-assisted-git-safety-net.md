@@ -77,7 +77,7 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+![alt text](image-62.png)
 
 ---
 
@@ -85,13 +85,15 @@ Add your screenshot here.
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
+.git/hooks/ is local and not committed to Git. Tracking hooks in a hooks/ directory allows them to be version-controlled, reviewed, shared, and used consistently by the entire team..
 
 ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+The Git pre-commit hook runs before a commit is created, while the Claude Code PreToolUse hook runs before Claude executes a tool. Both act as preventive safety checks, inspecting actions before they are allowed to continue.
+
+
 
 ---
 
@@ -105,7 +107,7 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-Add your screenshot here.
+![alt text](image-63.png)
 
 ---
 
@@ -113,13 +115,17 @@ Add your screenshot here.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
+Below condition matched the fake key.
+
+if git diff --cached -- "$file" | grep -qE 'AKIA[0-9A-Z]{16}|-----BEGIN (RSA|OPENSSH|PRIVATE) KEY-----'; then echo "BLOCKED: possible secret in $file" blocked=1
 
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No. The hook only detects secrets that match its predefined regular expressions. If a secret doesn't match those patterns, it won't be detected. This shows that fixed rules are useful but cannot catch every type of secret.
+
+
 
 ---
 
@@ -133,13 +139,13 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 5 — `SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no `Write`) and `disable-model-invocation: true`
 
-Add your screenshot here.
+![alt text](image-64.png)
 
 ---
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-Add your screenshot here.
+![alt text](image-65.png)
 
 ---
 
@@ -147,13 +153,13 @@ Add your screenshot here.
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+Bash is used to inspect the repository through Git commands, and Read allows the skill to examine file contents. Write is intentionally omitted to prevent the skill from modifying files, ensuring it performs only review and validation tasks.
 
 ---
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+Both detected the credential-shaped key. The pre-commit hook enforced a fixed rule and blocked the commit, while /pr-ready went further by identifying additional review issues, such as debug statements, and providing contextual recommendations.
 
 ---
 

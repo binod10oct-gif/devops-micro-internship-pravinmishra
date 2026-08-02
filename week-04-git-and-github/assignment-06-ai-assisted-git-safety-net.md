@@ -27,7 +27,7 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+![alt text](image-58.png)
 
 ---
 
@@ -35,7 +35,7 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+A dedicated branch allows me to make, test, and commit changes independently without affecting the main branch. Once the changes are reviewed and approved through a Pull Request, they can be safely merged into main. This enables multiple developers to work simultaneously without conflicts and keeps the main branch stable.
 
 ---
 
@@ -49,7 +49,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+![alt text](image-59.png)
 
 ---
 
@@ -57,7 +57,7 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+A fake key is used to simulate a credential leak safely. Real secrets should never be committed to source code, shared in screenshots, or pushed to Git repositories because they can be exposed and misused.
 
 ---
 
@@ -71,7 +71,7 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+![alt text](image-60.png)
 
 ---
 

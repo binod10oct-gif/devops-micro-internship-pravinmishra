@@ -173,13 +173,13 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 7 — `git commit` succeeding after the fix (no BLOCKED message)
 
-Add your screenshot here.
+![alt text](image-66.png)
 
 ---
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-Add your screenshot here.
+![alt text](image-67.png)
 
 ---
 
@@ -187,7 +187,9 @@ Add your screenshot here.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+I removed the hardcoded AWS-style key and the debug statement that printed it. I then replaced them with a safe notification message that contained no sensitive information, satisfying the pre-commit hook.
+
+
 
 ---
 
@@ -203,13 +205,13 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-Add your screenshot here.
+![alt text](image-68.png)
 
 ---
 
 #### PR Link
 
-Add your PR URL here...
+https://github.com/binod10oct-gif/devops-micro-internship-pravinmishra/pulls
 
 ---
 
@@ -217,19 +219,19 @@ Add your PR URL here...
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I have added little more information to align with the context
 
 ---
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+AI could give wrong information or insufficient information.
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+This is for practise purpose. Changing the main repoaitory would affect other's work.
 
 ---
 
@@ -243,31 +245,32 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
+The Gather step is when the pre-commit hook and the /pr-ready Claude skill inspect the staged changes. The pre-commit hook gathers the staged diff using git diff --cached and scans it for secret patterns, while /pr-ready gathers repository information using commands such as git diff --cached, git status, and by reading the modified files.
 
 ---
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
+The Analyze step is when both tools evaluate the gathered information. The pre-commit hook analyzes the staged changes against predefined regular expressions to detect secrets such as AWS access keys. The /pr-ready skill performs a broader analysis by reviewing the staged diff, identifying issues like leftover debug statements, and providing contextual feedback and recommendations.
 
 ---
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
+The Human Act step begins after reviewing the findings from the pre-commit hook and the /pr-ready skill. I removed the hardcoded AWS-style access key, deleted the debug echo statement, replaced them with a safe notification message, and then manually executed git commit, git push, and created the Pull Request.
+
+These actions must be performed by a human because they permanently modify the repository and publish changes to a shared project. Claude can review, analyze, and recommend actions, but the engineer is responsible for making the final decision and approving changes.
 
 ---
 
 **4. Which step is Verify?**
 
-Add your answer here.
-
+The Verify step is confirming that the fixes worked successfully. After removing the secret and debug statement, I committed the changes successfully because the pre-commit hook no longer blocked the commit. I then ran the /pr-ready skill again to verify that no security or review issues remained before pushing the branch and opening the Pull Request. This confirmed that the repository was ready for review.
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
+Both are needed because they solve different problems. The pre-commit hook enforces fixed security rules automatically, while the AI skill performs contextual code review and catches issues beyond predefined patterns.
 
 ---
 
@@ -281,7 +284,7 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-Add your LinkedIn post URL here...
+https://www.linkedin.com/posts/binod-mahato-54b61624_dmi-devops-micro-internship-with-agentic-share-7489686461970178048-K3kZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUTBIsB0-X0m-Hgz7jv1B_1Okv8NMfRKGc
 
 ---
 
@@ -289,11 +292,11 @@ Add your LinkedIn post URL here...
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
-
----
+1. Learned the complete Git collaboration workflow using forks, branches, SSH, commits, pushes, and Pull Requests.
+2. Understood how Git pre-commit hooks prevent commits containing hardcoded secrets before they reach the repository.
+3. Explored the difference between rule-based automation and AI-powered code reviews, and how they complement each other.
+4. Applied the Principle of Least Privilege by limiting AI to read-only analysis without code modification.
+5. Reinforced the Agentic AI Loop (Gather → Analyze → Human Act → Verify) to improve code quality, security, and responsible decision-making.
 
 # Submission Instructions
 
@@ -311,7 +314,7 @@ Add 3-5 bullet points on what you learned this week.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra/fork
 
 ---
 

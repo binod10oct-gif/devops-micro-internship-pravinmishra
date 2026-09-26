@@ -20,13 +20,13 @@ Create a `terraform-azure-vm` project and define the resource group, virtual net
 
 #### Screenshot 1 — VS Code showing `main.tf` and the required Azure resources
 
-Add your screenshot here.
+![alt text](image.png)
 
 ---
 
 #### Screenshot 2 — `main.tf` showing the public IP output and VM authentication configuration, with the password hidden or redacted
 
-Add your screenshot here.
+![alt text](image-1.png)
 
 ---
 
@@ -40,7 +40,7 @@ Run `terraform init` and confirm the working directory initializes successfully.
 
 #### Screenshot 3 — Terminal showing successful `terraform init` output
 
-Add your screenshot here.
+![alt text](image-2.png)
 
 ---
 
@@ -54,19 +54,18 @@ Review `terraform plan`, run `terraform apply`, and record the VM's public IP fr
 
 #### Screenshot 4 — Terraform plan summary showing the proposed resources
 
-Add your screenshot here.
-
+![alt text](image-4.png)
 ---
 
 #### Screenshot 5 — Terraform apply output showing successful completion
 
-Add your screenshot here.
+![alt text](image-5.png)
 
 ---
 
 #### Screenshot 6 — Terraform output showing the public IP of the VM
 
-Add your screenshot here.
+![alt text](image-6.png)
 
 ---
 
@@ -80,7 +79,7 @@ Use Azure CLI to confirm the VM was created and is running.
 
 #### Screenshot 7 — Azure CLI output showing the VM name and running status
 
-Add your screenshot here.
+![alt text](image-7.png)
 
 ---
 
@@ -94,15 +93,21 @@ Run `terraform destroy` to clean up the Azure resources after testing.
 
 #### Screenshot 8 — Terminal showing successful `terraform destroy` completion
 
-Add your screenshot here.
-
+![alt text](image-8.png)
+![alt text](image-9.png)
 ---
 
 ### Notes
 
 Write a short paragraph explaining what you learned or any issues you encountered.
 
-Write your answer here.
+Compare this assignment to the AWS audit you built in Week 6: which finding categories map to each other across the two clouds, and what stayed exactly the same about the workflow even though the az/aws commands are completely different?
+
+The finding categories are essentially the same across AWS and Azure, even though the services and CLI commands differ. In AWS, the audit looked for security-group rules exposing SSH/RDP, public access to S3, encryption-related issues, and public access to RDS. In Azure, the equivalent checks are NSG rules exposing SSH/RDP, Storage Account blob public access, VM disk-encryption status, and Azure Database for MySQL public network access. The cloud-specific resources change, but the underlying security questions remain: who can reach the resource, is data publicly exposed, and is data protected at rest.
+
+What stayed exactly the same was the engineering workflow: Gather → Analyze → Human Act → Verify. Bash collects deterministic evidence, Claude/Agentic AI analyzes that evidence and recommends a remediation, the human reviews and executes the change, and the audit is run again to prove the finding is resolved. The aws and az commands are different, but the safety model, read-only audit, human approval, evidence-before-fix, and before/after verification remain the same.
+
+
 
 ---
 

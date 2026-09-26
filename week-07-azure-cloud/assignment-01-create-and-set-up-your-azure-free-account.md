@@ -30,13 +30,13 @@ Sign in to the Azure Portal, locate key services (Resource Groups, Virtual Machi
 
 #### Screenshot 1 — Azure Portal homepage after successful login
 
-Add your screenshot here.
+![alt text](image.png)
 
 ---
 
 #### Screenshot 2 — "Subscriptions" section showing the "Free Trial" subscription
 
-Add your screenshot here.
+![alt text](image-1.png)
 
 ---
 
@@ -44,7 +44,7 @@ Add your screenshot here.
 
 Write a three-to-four-line paragraph explaining which Azure services you plan to explore first and why.
 
-Write your answer here.
+I plan to prioritize Azure Virtual Machines and Azure App Service to establish a foundational understanding of compute and deployment environments. Next, I will explore Azure Blob Storage to master scalable data management, which is essential for modern cloud applications. Finally, diving into Azure Cognitive Services will allow me to integrate pre-built AI capabilities, immediately elevating the functionality of my projects.If you are tailoring this for a specific role or project, tell me:Your primary goal (e.g., web development, data engineering, AI/ML)Your experience level with cloud platforms
 
 ---
 

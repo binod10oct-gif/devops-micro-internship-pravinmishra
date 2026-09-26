@@ -50,7 +50,7 @@ Open the primary endpoint URL and confirm the Mini Finance application, styling,
 
 #### Screenshot 1 — Mini Finance website running in the browser
 
-Add your screenshot here.
+![alt text](image-15.png)
 
 ---
 
@@ -58,11 +58,12 @@ Add your screenshot here.
 
 Paste the Azure Storage static website URL here:
 
-`Add your URL here`
+(https://dmiminifinance.z58.web.core.windows.net/)
 
 ---
 
 # Submission Instructions
+
 
 - Add the required screenshot and URL in your submission
 - Do not expose subscription identifiers or other sensitive account information

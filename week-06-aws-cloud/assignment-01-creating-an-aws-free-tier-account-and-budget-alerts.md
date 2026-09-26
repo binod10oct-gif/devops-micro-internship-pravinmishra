@@ -30,7 +30,7 @@ In the Billing Dashboard, create a monthly Cost Budget with a name, amount, and 
 
 #### Screenshot 1 — AWS Budget setup page showing the budget name, budget amount, and alert thresholds
 
-![alt text](image.png)
+![alt text](image-43.png)
 
 ---
 

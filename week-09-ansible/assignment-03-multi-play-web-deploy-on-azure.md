@@ -68,13 +68,13 @@ Run `ansible-playbook -i inventory.ini site.yml` and confirm all plays complete 
 
 #### Screenshot 5 — Terminal showing the `ansible-playbook` run and final recap with OK/changed results and no failures
 
-Add your screenshot here.
+![alt text](image-6.png)
 
 ---
 
 #### Screenshot 6 — Terminal showing the successful localhost URI verification results
 
-Add your screenshot here.
+![alt text](image-7.png)
 
 ---
 
@@ -88,15 +88,19 @@ Confirm the deployed static website is reachable directly from a web-server publ
 
 #### Screenshot 7 — Browser showing the static website loaded from a web-server public IP
 
-Add your screenshot here.
-
+![alt text](image-8.png)
+![alt text](image-9.png)
 ---
 
 ### Notes
 
 Describe an issue you faced and how you fixed it, what you learned, why installation and deployment were split into separate plays, and one benefit of using `copy` instead of cloning from Git directly.
 
-Write your answer here.
+Verified SSH key-based access from the Ansible controller to all three Azure Ubuntu virtual machines. Connections used the private key stored at ~/.ssh/id_ed25519 and the Azure administrator username azureuser.
+
+Ran the hostname command on each managed server through SSH. The returned hostnames confirmed successful access to web1, app1, and db1.
+
+This confirms that the SSH public key configured by Terraform was installed correctly on every VM and that the network security rules allow SSH access from the Ansible controller.
 
 ---
 

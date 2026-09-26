@@ -20,13 +20,13 @@ Create a `terraform-azure-vm` project and define the resource group, virtual net
 
 #### Screenshot 1 — VS Code showing `main.tf` and the required Azure resources
 
-![alt text](image.png)
+![alt text](image-10.png)
 
 ---
 
 #### Screenshot 2 — `main.tf` showing the public IP output and VM authentication configuration, with the password hidden or redacted
 
-![alt text](image-1.png)
+![alt text](image-11.png)
 
 ---
 
@@ -40,7 +40,7 @@ Run `terraform init` and confirm the working directory initializes successfully.
 
 #### Screenshot 3 — Terminal showing successful `terraform init` output
 
-![alt text](image-2.png)
+![alt text](image-12.png)
 
 ---
 
@@ -54,18 +54,18 @@ Review `terraform plan`, run `terraform apply`, and record the VM's public IP fr
 
 #### Screenshot 4 — Terraform plan summary showing the proposed resources
 
-![alt text](image-4.png)
+![alt text](image-13.png)
 ---
 
 #### Screenshot 5 — Terraform apply output showing successful completion
 
-![alt text](image-5.png)
+![alt text](image-15.png)
 
 ---
 
 #### Screenshot 6 — Terraform output showing the public IP of the VM
 
-![alt text](image-6.png)
+![alt text](image-14.png)
 
 ---
 
@@ -79,7 +79,7 @@ Use Azure CLI to confirm the VM was created and is running.
 
 #### Screenshot 7 — Azure CLI output showing the VM name and running status
 
-![alt text](image-7.png)
+![alt text](image-16.png)
 
 ---
 
